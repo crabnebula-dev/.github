@@ -1,5 +1,5 @@
 <p align="center">
-![CrabNebula](https://github.com/crabnebula-dev/.github/assets/117923398/6dadc46b-dbbd-4dbe-8930-c5e056cd71c8)
+<img src="profile/intro.jpg" alt="CrabNebula" />
 </p>
 <div align="center">
   <a href="https://crabnebula.dev/consulting">📐 Consulting<a>
