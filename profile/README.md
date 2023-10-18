@@ -16,7 +16,7 @@
 </div>
 <br />
 <div align="center">
-  <a href ="https://cal.com/denjell">
+  <a href ="https://cal.com/denjell?utm_source=banner&utm_campaign=oss">
     <img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" />
   </a>
 </div>
