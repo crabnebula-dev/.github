@@ -5,6 +5,9 @@
   <p>
     We are on the mission to help you make better apps. Find out more below.
   </p>
+  <p>
+    Official partners of <a href="https://github.com/tauri">@Tauri</a>
+  </p>
 </div>
 
 <div align="center">
