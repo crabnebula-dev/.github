@@ -1,5 +1,5 @@
 <p align="center">
-<img src="profile/intro.jpg" alt="CrabNebula" />
+<img src="intro.jpg" alt="CrabNebula" />
 </p>
 <div align="center">
   <p>
